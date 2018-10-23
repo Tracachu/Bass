@@ -12,4 +12,4 @@ Music.start(bot, {
   });
  
 
-bot.login(proccess.env.bot)
+bot.login("MzcxNjYwODI1Nzc1MzA4ODEw.DrEC7A.OQcDXgeQ4nu1hMtKZ0JdjGXsZFg")
